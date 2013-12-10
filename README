@@ -10,7 +10,7 @@ It will have a command-line tool (apt-hack) and a GUI.  Primary focus will be on
 
 Dependencies:
 
-sudo apt-get install devscripts guilt buildessential
+sudo apt-get install devscripts guilt build-essential
 
 Relevant Paths:
 
