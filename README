@@ -8,6 +8,10 @@ Once changes have been made they can be shared as .hack files.  Several .hack fi
 
 It will have a command-line tool (apt-hack) and a GUI.  Primary focus will be on the command-line tool.
 
+Dependencies:
+
+sudo apt-get install devscripts guilt
+
 Relevant Paths:
 
 ~/.config/apt-hack/config: Settings file
